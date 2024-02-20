@@ -1,4 +1,4 @@
-
+(https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
 <h3 align="center">A passionate Frontend Web Developer.</h3>
 
