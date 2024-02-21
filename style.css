@@ -17,6 +17,7 @@ nav {
   display: flex;
   justify-content: space-evenly;
   padding: 10px 0;
+  background: white;
 }
 nav .logo {
   font-size: 20px;
@@ -138,7 +139,6 @@ nav .logo {
 @media (max-width: 400px) {
   .text-container p {
     font-size: 30px;
-    margin-top: 87%;
   }
   .button {
     padding: 9px 18px;
@@ -148,3 +148,9 @@ nav .logo {
     height: 350px;
   }
 }
+@media (orientation:landscape) {
+    .text-container p {
+      font-size: 30px;
+      margin-top: 70%;
+    }
+  }
