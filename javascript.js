@@ -3,5 +3,5 @@ function openmenu(){
     togglemenu.style.right = "0";
 }
 function closemenu(){
-    togglemenu.style.right ="-500px";
+    togglemenu.style.right ="-550px";
 }
