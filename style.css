@@ -52,7 +52,7 @@ nav .logo {
 .menu-button {
   display: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 690px) {
     .menu-button {
         display: block;
       }
@@ -67,7 +67,7 @@ nav .logo {
     width: 80%;
     height: 100vh;
     background: #ff006e;
-    right: -500px;
+    right: -550px;
     top: 0;
   }
 
@@ -123,22 +123,48 @@ nav .logo {
 .image-container img {
   height: 500px;
 }
-
-@media (max-width: 810px) {
+@media (max-width: 800px){
+    .text-container p {
+      font-size: 35px;
+    }
+    .button {
+      padding: 10px 20px;
+      font-size: 15px;
+    }
+    .image-container img {
+      height: 430px;
+    }
+  }
+  @media (max-width:400px) {
+    .text-container p {
+        font-size: 32px;
+      }
+      .button {
+        padding: 9px 18px;
+        font-size: 13px;
+      }
+      .image-container img {
+        height: 350px;
+      }
+  }
+  @media (max-width:300px) {
+    .text-container p {
+        font-size: 25px;
+        padding: 20px;
+      }
+      .button {
+        padding: 9px 15px;
+        font-size: 13px;
+        margin-left: 15px;
+      }
+      .image-container img {
+        height: 200px;
+      }
+  }
+@media screen and (max-width: 940px) and (orientation:landscape){
   .text-container p {
-    font-size: 35px;
-  }
-  .button {
-    padding: 10px 20px;
-    font-size: 15px;
-  }
-  .image-container img {
-    height: 430px;
-  }
-}
-@media (max-width: 400px) {
-  .text-container p {
-    font-size: 30px;
+    font-size: 32px;
+    margin-top: 50%;
   }
   .button {
     padding: 9px 18px;
@@ -148,9 +174,4 @@ nav .logo {
     height: 350px;
   }
 }
-@media (orientation:landscape) {
-    .text-container p {
-      font-size: 30px;
-      margin-top: 70%;
-    }
-  }
+
