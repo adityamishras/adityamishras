@@ -3,8 +3,7 @@
 ![Profile Picture](path/to/your/profile/picture.jpg)
 
 ## About Me
-Hello Everyone,  
-This is Aditya Mishra, a Web Developer.
+[Click here to see the animated About Me section](index.html)
 
 ## Projects
 
