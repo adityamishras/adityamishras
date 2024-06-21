@@ -1,43 +1,88 @@
-# Aditya Mishra - Web Developer
+<div align="center">
+<img src="https://github.com/adityamishras/adityamishras/assets/136791974/de71ecb3-02bf-4066-b87a-c8fabb1b9b4d" align="center" style="width: 100%" />
+</div>  
+  
 
-![Profile Picture](path/to/your/profile/picture.jpg)
 
-## About Me
-[Click here to see the animated About Me section](index.html)
+### <div align="center">I'm Aditya, a Junier Web Developer</div>  
+  
 
-## Projects
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/adityamishras)  
+  
 
-### 1. Project 1
-![Project 1](path/to/your/project1/screenshot.jpg)
-- **Title**: Give Out Workout A New Style!
-- **Description**: Some quick example text to build on the card title and make up the bulk of the card's content.
-- [Go Somewhere](#)
+- 🌱 I’m currently learning JavaScript & ReactJS  
+  
 
-### 2. Project 2
-![Project 2](path/to/your/project2/screenshot.jpg)
-- **Title**: Hello World!
-- **Description**: Some quick example text to build on the card title and make up the bulk of the card's content.
-- [Go Somewhere](#)
+- ❓ Ask me about anything related to Frontend Web Developement.
+ 
+  
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-### 3. Project 3
-![Project 3](path/to/your/project3/screenshot.jpg)
-- **Title**: Nicole Full Length Trench Coat
-- **Description**: Some quick example text to build on the card title and make up the bulk of the card's content.
-- [Go Somewhere](#)
+<br/>  
 
-### 4. Project 4
-![Project 4](path/to/your/project4/screenshot.jpg)
-- **Title**: An Exciting SaaS Landing Page
-- **Description**: Some quick example text to build on the card title and make up the bulk of the card's content.
-- [Go Somewhere](#)
 
-## Social Media Links
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-## Contact Me
-- **Email**: your.email@example.com
 
-## License
-© Copyright 2024 - Aditya Mishra
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
