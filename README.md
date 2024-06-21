@@ -7,7 +7,7 @@
 ### <div align="center">I'm Aditya, a Junier Web Developer</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/adityamishras)  
+- 🔭 I’m currently working on [Github](https://github.com/adityamishras)  
   
 
 - 🌱 I’m currently learning JavaScript & ReactJS  
