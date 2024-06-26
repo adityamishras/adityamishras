@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://github.com/adityamishras/adityamishras/assets/136791974/de71ecb3-02bf-4066-b87a-c8fabb1b9b4d" align="center" style="width: 100%" />
+<img src="https://github.com/adityamishras/adityamishras/assets/136791974/b5d188bb-0e0e-44cf-8119-ccd313b788f1" align="center" style="width: 100%" />
 </div>  
   
-
 
 ### <div align="center">I'm Aditya, a Junier Web Developer</div>  
   
